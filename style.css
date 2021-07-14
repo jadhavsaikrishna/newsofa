@@ -1,0 +1,21 @@
+.par{
+	position: absolute;
+	top: 20px;
+	left: 400px;
+
+}
+
+.btn1{
+	background: black;
+	color: white;
+	padding: 10px 20px 10px 20px;
+}
+.btn2{
+	padding: 10px 20px 10px 20px;
+}
+
+.footer{
+	display: flex;
+	margin: 100px;
+	justify-content: space-between;
+}
